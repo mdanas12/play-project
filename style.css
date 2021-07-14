@@ -222,11 +222,6 @@ footer{
          align-items: center;
          grid-template-columns: repeat(1,1fr);
      }
-     .div-container{
-       display: flex;
-       flex-direction: column;
-       grid-column-gap: 21px;
-     }
      #text-box{
          margin-top: 10px;
      }
@@ -242,6 +237,9 @@ footer{
         align-items: center;
         flex-direction: column;
         grid-template-columns: repeat(1,fr);
+    }
+    .div-container{
+        margin: 20px;
     }
     .main-box{
         margin-top: 0px;
