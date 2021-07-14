@@ -253,6 +253,14 @@ footer{
     .football{
         margin-bottom: 30px;
     }
+    #div-section{
+        width: 200px;
+        height: 300px;
+    }
+    .football img{
+        width: 300px;
+        height: 300px;
+    }
  }
  
  /*----------------- 
