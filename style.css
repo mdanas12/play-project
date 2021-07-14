@@ -221,6 +221,9 @@ footer{
          flex-direction: column;
          align-items: center;
          grid-template-columns: repeat(1,1fr);
+     }
+     .div-container{
+         display: grid;
          grid-row-gap: 21px;
      }
      #text-box{
@@ -253,10 +256,6 @@ footer{
     .football{
         margin-bottom: 30px;
     }
-    #div-section{
-        width: 200px;
-        height: 300px;
-    }
     .football img{
         width: 300px;
         height: 300px;
@@ -276,6 +275,9 @@ footer{
         width: 100%;
         align-items: center;
         grid-template-columns: repeat(2,1fr);
+    }
+    .div-container{
+        display: grid;
         grid-row-gap: 21px;
     }
     .head-item{
