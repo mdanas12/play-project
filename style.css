@@ -223,7 +223,8 @@ footer{
          grid-template-columns: repeat(1,1fr);
      }
      .div-container{
-         display: grid;
+         display: flex;
+         flex-direction: column;
          grid-row-gap: 21px;
      }
      #text-box{
